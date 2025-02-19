@@ -1,0 +1,45 @@
+h1 {
+    font-family:fantasy;
+    font-size: 75px;
+    font-style: italic;
+    color: white;
+    margin: 10px;
+    width: 1000px;
+    text-align: left;
+    }
+h2 {
+    font-family:Helvetica ;
+    font-size: 30px;
+    color:azure;
+    margin: 10px;
+    }
+h3 {
+    font-family: Helvetica;
+    font-size: 20px;
+    color: azure;
+    margin: 10px;
+    width: 1000px;
+    text-align: left;
+    }
+p {
+    font-family: Helvetica;
+    font-size: 15px;
+    color: azure;
+    margin: 10px;
+    width: 800px;
+    text-align: justify;
+    }
+button {
+    font-style:normal;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    display: block;
+    color:black; background-color: yellow;
+    margin: 10px;
+    width: 200px;
+    }
+body {
+    background-image: url(Gambar.png);
+    }
